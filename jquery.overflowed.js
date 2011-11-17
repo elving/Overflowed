@@ -1,7 +1,7 @@
 /* Overflowed.js
  * http://elvingrodriguez.com/overflowed
  *
- * Copyright 2011, Elving Rodriguez
+ * Copyright 2011, Elving Rodriguez Rodriguez
  *
  * Date: Tue Sep 20 2011
  */
